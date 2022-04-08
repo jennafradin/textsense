@@ -4,12 +4,15 @@ When we explore a surface or an object , both vision and touch provide informati
 
 ## Texture recording
 
-In the first part, we recorded tactile interaction with everyday fabric in order to manipulate and be able to use these recordings in psychophysical tasks. 
-
+In the first part, we selected several texture whose vibrotactile signature were recorded. From those signature, we created a database that will be used in coming psychophysical and electrophysiological studies. 
 
 ## Pilot experiments
 
 ### Haptic feedback 
 
-We used the tactile signal recorded to set up a psychophysical experiment on haptic feedback. Using a tactile actuator, the participant were asked to compare two successive vibrations for each trial. After the trial, they answered whether the vibrations were "same" or "different". All possible pairs of textures were repated 10 times in a pseudo-randomized order.
+We used the tactile signal recorded to set up a psychophysical experiment on **haptic feedback**. Using a tactile actuator, the participant were asked to compare two successive vibrations for each trial. After the trial, they answered whether the vibrations were "same" or "different". The results showed that people mostly felt the difference across rendered textures when played by the vibrotactile actuator.
+
+### Exploration speed
+
+Given the limitated capacities of the somatensensory system to discriminate frenquencies, a question raised: Does finger sliding speed influence virtual texture perception on a surface tactile display ? 
 
