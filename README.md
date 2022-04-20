@@ -1,6 +1,6 @@
 # TextSense projet
 
-When we explore a surface or an object , both vision and touch provide information that help us characterise the properties of the surface or the object. The informations gathered by each individual sense have been widely investigated in numerous studies. However,it remains unclear how the information collected by the two modalities are fused together to enable the perception of textures. To fill this gap, we prpose an original approach that aims to create a **new dataset** of visuo-haptic textures recorded with the **bare finger**, which fill be used to perform psychophysical experiments and electrophysiological reocrdings.
+When we explore a surface or an object , both vision and touch provide information that help us characterise the properties of the surface or the object. The informations gathered by each individual sense have been widely investigated in numerous studies. However,it remains unclear how the information collected by the two modalities are fused together to enable the perception of textures. To fill this gap, we propose an original approach that aims to create a **new dataset** of visuo-haptic textures recorded with the **bare finger**, which fill be used to perform psychophysical experiments and electrophysiological reocrdings.
 
 ## Texture recording
 
