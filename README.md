@@ -1,10 +1,14 @@
-# TextSense projet
+# TextSense project
+
+### !! Presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
+
+![eurohaptics](eurohaptics_logo.PNG)
 
 ### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/)
 
-<p>When we touch a surface or explore an object , both **vision** and **touch** provide information that help us characterise the properties of the surface or the object. The informations gathered by each individual sense have been widely investigated in numerous studies. However, it remains unclear how the information collected by the two modalities are fused together to enable the perception of textures.<p>
+<p>When we touch a surface or explore an object , both __vision__ and __touch__ provide information that help us characterise the properties of the surface or the object. The informations gathered by each individual sense have been widely investigated in numerous studies. However, it remains unclear how the information collected by the two modalities are fused together to enable the perception of textures.<p>
 
-<p>We aim to explore how humans perceive visuo-tactile surfaces when the visual and tactile dimensions are **collocated**<p>
+<p>We aim to explore how humans perceive visuo-tactile surfaces when the visual and tactile dimensions are __collocated__ and during __active__ exploration<p>
 
 ## Methods
 
