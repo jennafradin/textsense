@@ -1,8 +1,8 @@
 # TextSense project
 
-<p align="center">
+<div align="center">
 ### !! Presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
-</p>
+</div>
 ![eurohaptics](eurohaptics_logo.PNG)
 
 ### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/)
