@@ -1,7 +1,8 @@
 # TextSense project
 
+<p align="center">
 ### !! Presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
-
+</p>
 ![eurohaptics](eurohaptics_logo.PNG)
 
 ### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/)
@@ -32,5 +33,7 @@ To answer this question, we measured the perceptual ability of observers to beco
 
 In this experiment, participant were presented with a pair of tactile signals, one of them begin the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
 
+## Results
 
+Check the poster: [HERE](https://github.com/jennafradin/textsense?poster_WIP.pdf)
 
