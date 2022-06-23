@@ -19,7 +19,7 @@ We selected several texture whose vibrotactile signature were recorded using an 
 
 We used the recorded those tactile signals to perform a serie of psychophysical experiments on visual-haptic interaction.
 
-You can additional informations about the setup on the [poster](https://github.com/jennafradin/textsense/poster_WIP.pdf)
+You can additional informations about the setup on the [poster](poster_WIP.pdf)
 
 #### Experiment 1.
 
@@ -31,10 +31,8 @@ To answer this question, we measured the perceptual ability of observers to beco
 
 In this experiment, participant were seated in front of a touchscreen. They were presented with a pair of visual signals and a pair of tactile signals, one of them being the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
 
-![setup](setup_exp2.PNG {width=100px height=100px})
-
 
 ## Results
 
-Check the poster: [HERE](https://github.com/jennafradin/textsense/poster_WIP.pdf)
+Check the poster: [HERE](poster_WIP.pdf)
 
