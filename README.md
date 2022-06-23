@@ -15,7 +15,7 @@
 
 We selected several texture whose vibrotactile signature were recorded using an accelerometer and a force transducer. From those signature, we created a database that will be used in coming psychophysical and electrophysiological studies. 
 
-[setup](setup_exp1.PNG)
+![setup](setup_exp1.PNG)
 
 <strong>Fig.1.</strong> Apparatus. (a) Schenatic representation. (b) Texture sample mounted on the recording device. (c) Selected textures. 
 
