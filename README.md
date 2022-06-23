@@ -1,6 +1,6 @@
 # TextSense project
 
-###           !! Presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
+### !! Presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
 ![eurohaptics](eurohaptics_logo.PNG)
 
 ### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/)
@@ -17,9 +17,9 @@ We selected several texture whose vibrotactile signature were recorded using an 
 
 ### b. Psychophysics
 
-We used the recorded tactile signals a serie of commonly-used texture to perform psychophysical experiments on visual-haptic interaction.
+We used the recorded those tactile signals to perform a serie of psychophysical experiments on visual-haptic interaction.
 
-You can additional informations about the setup on the [poster](https://github.com/jennafradin/textsense?poster_WIP.pdf)
+You can additional informations about the setup on the [poster](https://github.com/jennafradin/textsense/poster_WIP.pdf)
 
 #### Experiment 1.
 
@@ -29,9 +29,12 @@ To answer this question, we measured the perceptual ability of observers to beco
 
 #### Experiment 2.
 
-In this experiment, participant were presented with a pair of tactile signals, one of them begin the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
+In this experiment, participant were seated in front of a touchscreen. They were presented with a pair of visual signals and a pair of tactile signals, one of them being the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
+
+![setup](setup_exp2.PNG)
+
 
 ## Results
 
-Check the poster: [HERE](https://github.com/jennafradin/textsense?poster_WIP.pdf)
+Check the poster: [HERE](https://github.com/jennafradin/textsense/poster_WIP.pdf)
 
