@@ -15,11 +15,14 @@
 
 We selected several texture whose vibrotactile signature were recorded using an accelerometer and a force transducer. From those signature, we created a database that will be used in coming psychophysical and electrophysiological studies. 
 
+[setup](setup_exp1.PNG)
+
+<strong>Fig.1.</strong> Apparatus. (a) Schenatic representation. (b) Texture sample mounted on the recording device. (c) Selected textures. 
+
 ### b. Psychophysics
 
 We used the recorded those tactile signals to perform a serie of psychophysical experiments on visual-haptic interaction.
 
-You can additional informations about the setup on the [poster](poster_WIP.pdf)
 
 #### Experiment 1.
 
