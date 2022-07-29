@@ -38,5 +38,5 @@ Additional informations on the Methods/Setups [HERE](poster_WIP.pdf)
 
 ## Results
 
-Check the poster: [POSTER](poster_WIP.pdf)
+All the results are available Here: [POSTER](poster_WIP.pdf)
 
