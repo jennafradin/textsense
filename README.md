@@ -7,7 +7,7 @@
 
 <p>When we touch a surface or explore an object , both <strong>vision</strong> and <strong>touch</strong> provide information that help us characterise the properties of the surface or the object. The informations gathered by each individual sense have been widely investigated in numerous studies. However, it remains unclear how the information collected by the two modalities are fused together to enable the perception of textures.<p>
 
-<p>We aim to explore how humans perceive visuo-tactile surfaces when the visual and tactile dimensions are <strong>collocated</strong> and during <strong>active</strong> exploration<p>
+<p>We aim to explore how humans perceive visuo-tactile surfaces when the visual and tactile dimensions are <strong>collocated</strong> and during <strong>active</strong> exploration<p>.
 
 ## Methods
 
@@ -21,7 +21,7 @@ We selected several texture whose vibrotactile signature were recorded using an 
 
 ### b. Psychophysics
 
-We used the recorded those tactile signals to perform a serie of psychophysical experiments on visual-haptic interaction.
+We used the recorded of those tactile signals to perform a serie of psychophysical experiments on visual-haptic interaction.
 
 
 #### Experiment 1.
@@ -32,11 +32,14 @@ To answer this question, we measured the perceptual ability of observers to beco
 
 #### Experiment 2.
 
-In this experiment, participant were seated in front of a touchscreen. They were presented with a pair of visual signals and a pair of tactile signals, one of them being the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
+In the second experiment, participant were seated in front of a touchscreen. They were presented with a pair of visual signals and a pair of tactile signals, one of them being the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
+
+<img src="https://github.com/jennafradin/textsense/setup.PNG" alt="Illustation of the experimental setup used in our experiments" width="250"/>
+
 
 Additional informations on the Methods/Setups [HERE](poster_WIP.pdf)
 
 ## Results
 
-All the results are available Here: [POSTER](poster_WIP.pdf)
+Results are available Here: [POSTER](poster_WIP.pdf)
 
