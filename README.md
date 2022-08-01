@@ -34,9 +34,7 @@ To answer this question, we measured the perceptual ability of observers to beco
 
 In the second experiment, participant were seated in front of a touchscreen. They were presented with a pair of visual signals and a pair of tactile signals, one of them being the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
 
-<!-- <img src="setup.PNG" width="450"/> -->
-
-![setup2](setup.PNG)
+<img src="setup.PNG" width="450"/> 
 
 <strong>Fig.2.</strong> Illustration of the setup used for our experiments. 
 
