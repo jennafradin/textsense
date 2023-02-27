@@ -17,7 +17,7 @@
 
 In this study, participant performed a serie of psychophysical experiments using a visuo-haptic workbench, which allows divergent colocated visual and tactile information to be presented.
 
-<img src="workbench.PNG" width="500"/>
+<img src="workbench.PNG" width="'450"/>
 
 <strong>Fig.1</strong> A. Schematic representation of the visuo-haptic workbench. B. Actual experiment setup. Participant viewed the projection of the visual stimuli displayed on the screen acrooss the semi-reflective mirror.
 
