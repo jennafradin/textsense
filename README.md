@@ -3,7 +3,7 @@
 ### !! Prelimary results presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
 ![eurohaptics](eurohaptics_logo.PNG)
 
-### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/), [Sinan Haliyo](https://pages.isir.upmc.fr/shaliyo/)
+### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/),  [Sinan Haliyo](https://pages.isir.upmc.fr/shaliyo/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/),
 
 <p>It has been shown that people can potimally integrate tactile and visual cues to extract sensory cues. It is less clear though how the congruency between <strong>tactile</strong> and <strong>visual</strong> cues is perceived when people interact with everyday object such as fabrics.<p>
 
