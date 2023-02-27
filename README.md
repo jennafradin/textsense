@@ -1,49 +1,38 @@
 # TextSense project
 
-### !! Presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
+### !! Prelimary results presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
 ![eurohaptics](eurohaptics_logo.PNG)
 
-### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/)
+### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/), [Sinan Haliyo](https://pages.isir.upmc.fr/shaliyo/)
 
-<p>When we touch a surface or explore an object , both <strong>vision</strong> and <strong>touch</strong> provide information that help us characterise the properties of the surface or the object. The informations gathered by each individual sense have been widely investigated in numerous studies. However, it remains unclear how the information collected by the two modalities are fused together to enable the perception of textures.<p>
+<p>It has been shown that people can potimally integrate tactile and visual cues to extract sensory cues. It is less clear though how the congruency between <strong>tactile</strong> and <strong>visual</strong> cues is perceived when people interact with everyday object such as fabrics.<p>
 
-<p>We aim to explore how humans perceive visuo-tactile surfaces when the visual and tactile dimensions are <strong>collocated</strong> and during <strong>active</strong> exploration<p>.
+<p>We aim to investigate the human accuracy to detect <strong>visuo-haptic</strong> discrepancy within common fabrics.<p>
 
 ## Methods
 
-### a. Texture recording
+### a. Psychophysics
 
-We selected several texture whose vibrotactile signature were recorded using an accelerometer and a force transducer. From those signature, we created a database that will be used in coming psychophysical and electrophysiological studies. 
+<p>A frequently used strategy o investigate visuo-haptic integration is to create a sensory conflict. To do so, researchers create tasks in chich the visual information diverges slighlty from the haptic information. This approach makes it possible to estimate how the brain solves the challenge of integrating conflicting inputs from distinct sensory channels.</p>
 
-<!-- ![setup](setup_exp1.PNG) -->
+In this study, participant performed a serie of psychophysical experiments using a visuo-haptic workbench, which allows divergent colocated visual and tactile information to be presented.
 
-<img src="setup_exp1.PNG" width="500"/> 
+<img src="workbench.PNG" width="500"/>
 
-<strong>Fig.1.</strong> Apparatus. (a) Schenatic representation. (b) Texture sample mounted on the recording device. (c) Selected textures. 
+<strong>Fig.1</strong> A. Schematic representation of the visuo-haptic workbench. B. Actual experiment setup. Participant viewed the projection of the visual stimuli displayed on the screen acrooss the semi-reflective mirror.
 
-### b. Psychophysics
+### b. Correlation with physical measurements
 
-We used the recorded of those tactile signals to perform a serie of psychophysical experiments on visual-haptic interaction.
+<p>Previous studies have shown a correlation between physical surface properties and cross-modalitiy perceptual judgements.</p>
 
-
-#### Experiment 1.
-
-Given the limitated capacities of the somatensensory system to discriminate frenquencies, a question raised: Does finger sliding speed influence virtual texture perception on a surface tactile display ? 
-
-To answer this question, we measured the perceptual ability of observers to become aware of the differences in the textures corresponding to different scanning speed during active sliding on a touchscreen.
-
-#### Experiment 2.
-
-In the second experiment, participant were seated in front of a touchscreen. They were presented with a pair of visual signals and a pair of tactile signals, one of them being the signal corresponding to the visual texture displayed and the other one being the signal of another texture. They were asked to pick which of the two vibrations they thought best matches the visual feedback.
-
-<img src="setup.PNG" width="450"/> 
-
-<strong>Fig.2.</strong> Illustration of the setup used for our experiments. 
+<p>Here, we collected contact forces and accelerations from an instrumented fingertip interaction with each surface</p>
 
 
-Additional informations on the Methods/Setups [HERE](poster_WIP.pdf)
+<img src="physical_measurement.PNG" width="500"/> 
+
+<strong>Fig.2</strong> (a) Schematic representation. (b) Texture sample mounted on the recording device. 
 
 ## Results
 
-Results are available Here: [POSTER](poster_WIP.pdf)
+Results of the preliminary study are available Here: [POSTER](poster_WIP.pdf)
 
