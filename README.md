@@ -1,7 +1,11 @@
 # TextSense project
 
-### !! Prelimary results presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) !! 
-![eurohaptics](eurohaptics_logo.PNG)
+![WHC](whc_logo.png)
+
+### 📣 NEWS: Paper available [HERE](https://ieeexplore.ieee.org/abstract/document/10224382) / Paper presented at [WHC 2023](https://2023.worldhaptics.org/)
+
+### Prelimary results presented at [EuroHaptics 2022](https://www.eurohaptics2022.org/) 
+
 
 ### Authors: [Jenna Fradin](https://www.isir.upmc.fr/personnel/fradin/),  [Sinan Haliyo](https://pages.isir.upmc.fr/shaliyo/), [David Gueorguiev](https://www.isir.upmc.fr/personnel/gueorguiev/),
 
@@ -34,5 +38,6 @@ In this study, participant performed a serie of psychophysical experiments using
 
 ## Results
 
-Results of the preliminary study are available Here: [POSTER](poster_WIP.pdf)
+ * Results of the preliminary study are available Here: [POSTER](poster_WIP.pdf)
+ * Final results Here: [ARTICLE](https://hal.science/hal-04156797)
 
